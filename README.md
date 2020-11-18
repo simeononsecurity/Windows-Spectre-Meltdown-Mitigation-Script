@@ -32,3 +32,13 @@ Customers should take the following actions to help protect against the vulnerab
 - Evaluate the risk to your environment based on the information that is provided on Microsoft Security Advisories: ADV180002, ADV180012, ADV190013 and information provided in this Knowledge Base article.
 - Take action as required by using the advisories and registry key information that are provided in this Knowledge Base article.
 
+## Download the required files:
+
+Download the required files from the [GitHub Repository](https://github.com/simeononsecurity/Windows-Spectre-Meltdown-Mitigation-Script)
+
+## How to run the script:
+
+**The script may be lauched from the extracted GitHub download like this:**
+```
+.\sos-spectre-meltdown-mitigations.ps1
+```
