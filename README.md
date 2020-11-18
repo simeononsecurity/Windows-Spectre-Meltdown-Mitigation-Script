@@ -20,7 +20,7 @@ We have not yet received any information to indicate that these vulnerabilities 
 - CVE-2018-12127 – “Microarchitectural Fill Buffer Data Sampling (MFBDS)”
 - CVE-2018-12130 – “Microarchitectural Load Port Data Sampling (MLPDS)”
 
-**UPDATED ON AUGUST 6*, 2019** On August 6, 2019 Intel released details about a Windows kernel information disclosure vulnerability. This vulnerability is a variant of the Spectre Variant 1 speculative execution side channel vulnerability and has been assigned CVE-2019-1125.
+**UPDATED ON AUGUST 6, 2019** On August 6, 2019 Intel released details about a Windows kernel information disclosure vulnerability. This vulnerability is a variant of the Spectre Variant 1 speculative execution side channel vulnerability and has been assigned CVE-2019-1125.
 
 **UPDATED ON NOVEMBER 12, 2019** On November 12, 2019, Intel published a technical advisory around Intel® Transactional Synchronization Extensions (Intel® TSX) Transaction Asynchronous Abort vulnerability that is assigned CVE-2019-11135. Microsoft has released updates to help mitigate this vulnerability and the OS protections are enabled by default for Windows Client OS Editions.
 
