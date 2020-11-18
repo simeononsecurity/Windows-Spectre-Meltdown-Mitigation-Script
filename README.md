@@ -1,4 +1,4 @@
-# Windows-Specture-Meltdown-Mitigation-Script
+# Windows-Spectre-Meltdown-Mitigation-Script
 #### https://support.microsoft.com/en-us/help/4073119/protect-against-speculative-execution-side-channel-vulnerabilities-in
 **Simple script to implement protections against speculative execution side-channel vulnerabilities in Windows systems.**
 
