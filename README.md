@@ -1,6 +1,6 @@
 # Windows-Specture-Meltdown-Mitigation-Script
 #### https://support.microsoft.com/en-us/help/4073119/protect-against-speculative-execution-side-channel-vulnerabilities-in
-** Simple script to implement protections against speculative execution side-channel vulnerabilities in Windows systems. **
+**Simple script to implement protections against speculative execution side-channel vulnerabilities in Windows systems.**
 
 Microsoft is aware of a new publicly disclosed class of vulnerabilities that are called “speculative execution side-channel attacks” and that affect many modern processors including Intel, AMD, VIA, and ARM. 
 
